@@ -1,0 +1,23 @@
+*{
+    background-color: crimson;
+}
+.img{
+        height: 50%;
+        border-radius: 5%;
+        object-fit: cover;
+        border-width: 10px;
+        border-color: gold;
+        border-style: solid;
+}
+
+.pwebsite{
+    display: flex;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pwebsite-resume{
+    padding: 15px;
+    color: darkslategray;
+    background-color: aqua;
+}
